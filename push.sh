@@ -1,6 +1,6 @@
 #!/bin/bash
 # ================================
-# Braava M6 Eval — End Session
+# Braava M6 Eval — Push to GitHub
 # ================================
 
 echo "Enter commit message:"
@@ -10,6 +10,4 @@ git add .
 git commit -m "$COMMIT_MSG"
 git push
 
-echo "Pushed to GitHub."
-deactivate
-echo "Virtual environment deactivated. Session complete."
+echo "Done. Pushed to GitHub."
