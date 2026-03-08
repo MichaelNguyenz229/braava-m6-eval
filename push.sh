@@ -1,8 +1,4 @@
 #!/bin/bash
-# ================================
-# Braava M6 Eval — Push to GitHub
-# ================================
-
 echo "Enter commit message:"
 read COMMIT_MSG
 

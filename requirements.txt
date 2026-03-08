@@ -1,5 +1,6 @@
 mashumaro==3.20
 orjson==3.11.7
 paho-mqtt==2.1.0
+python-dotenv==1.2.2
 roombapy==1.9.1
 typing_extensions==4.15.0
