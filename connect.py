@@ -25,7 +25,8 @@ def main():
     print("================================")
     print("   Braava M6 — Connection Test")
     print("================================")
-    print(f"Connecting to {ROBOT_IP}...")
+    # print(f"Connecting to {ROBOT_IP}...")
+    print(f"Connecting to Robot IP Address...")
 
     roomba = RoombaFactory.create_roomba(
         address=ROBOT_IP,
