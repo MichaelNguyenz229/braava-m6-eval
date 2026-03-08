@@ -27,44 +27,31 @@ def main():
     print("================================")
     print(f"Connecting to {ROBOT_IP}...")
 
-    try:
-        # Connect to robot
-        roomba = RoombaFactory.create_roomba(
-            address=ROBOT_IP,
-            blid=BLID,
-            password=PASSWORD,
-            continuous=False
-        )
+    roomba = RoombaFactory.create_roomba(
+        address=ROBOT_IP,
+        blid=BLID,
+        password=PASSWORD,
+        continuous=False
+    )
 
-        roomba.connect()
-        print("Connected successfully!")
-        print("")
+    roomba.connect()
+    print("Connected. Waiting for state...")
+    time.sleep(5)
 
-        # Give it a moment to receive state data
-        print("Reading robot state...")
-        time.sleep(3)
+    state = roomba.master_state
+    reported = state.get("state", {}).get("reported", {})
 
-        # Print full state
-        state = roomba.master_state
-        print("--------------------------------")
-        print("Current Robot State:")
-        print("--------------------------------")
-        print(json.dumps(state, indent=2))
-        print("--------------------------------")
+    print("\n--- Robot Status ---")
+    print(f"Name:       {reported.get('name')}")
+    print(f"Battery:    {reported.get('batPct')}%")
+    print(f"Tank level: {reported.get('tankLvl')}%")
+    print(f"Phase:      {reported.get('cleanMissionStatus', {}).get('phase')}")
+    print(f"Firmware:   {reported.get('softwareVer')}")
+    print(f"Pad detected: {reported.get('detectedPad')}")
+    print("--------------------\n")
 
-        # Pull out key fields
-        status = state.get("state", {}).get("reported", {})
-        print(f"\nBattery:  {status.get('batPct', 'N/A')}%")
-        print(f"Phase:    {status.get('cleanMissionStatus', {}).get('phase', 'N/A')}")
-        print(f"Name:     {status.get('name', 'N/A')}")
-
-        roomba.disconnect()
-        print("\nDisconnected cleanly.")
-        print("================================")
-
-    except Exception as e:
-        print(f"Connection failed: {e}")
-        print("Check your IP, BLID, and password.")
+    roomba.disconnect()
+    print("Disconnected cleanly.")
 
 if __name__ == "__main__":
     main()
