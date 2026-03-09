@@ -19,13 +19,13 @@ every 5 seconds during live missions.
 ## In Action
 
 **On dock, awaiting mission:**
-![Robot on dock](assets/doc-station.jpg)
+![Robot on dock](images/doc-station.jpg)
 
 **Mapping freely during first run:**
-![Robot mapping](assets/free-map.jpg)
+![Robot mapping](images/free-map.jpg)
 
 **Wall interaction during navigation:**
-![Wall collision](assets/wall-collision.jpg)
+![Wall collision](images/wall-collision.jpg)
 
 ## Test Cases
 
@@ -79,7 +79,7 @@ python scripts/connect.py
 
 ## Status
 
-🔄 Active — data collection in progress
+ Active — data collection in progress
 
 ## Author
 

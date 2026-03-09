@@ -156,8 +156,8 @@ This test directly investigates that hypothesis.
 - Fixed obstacle placed in open space (box or chair)
 - Note current `nCBump` and `nPanics` values before run
 **Observed behavior (preliminary):**
-![Robot flush against wall](../assets/flush-shot.jpg)
-![Robot pressing into wall](../assets/wall-collision.jpg)
+![Robot flush against wall](../images/flush-shot.jpg)
+![Robot pressing into wall](../images/wall-collision.jpg)
 
 **Steps:**
 1. Run snapshot_profile.py — record baseline `nCBump` and `nPanics`
