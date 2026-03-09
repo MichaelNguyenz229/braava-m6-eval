@@ -6,7 +6,7 @@ Polls Braava M6 state every 5 seconds during a live cleaning run.
 Saves timestamped snapshots to data/runs/ as a JSON log file.
 
 Usage:
-    python collect_state.py
+    python scripts/collect_state.py
     Then start cleaning mission from iRobot app.
     Hit Ctrl+C when mission is complete.
 """
@@ -33,31 +33,28 @@ def extract_snapshot(state):
     mission  = reported.get("cleanMissionStatus", {})
 
     return {
-        "timestamp":  datetime.now().isoformat(),
-        "phase":      mission.get("phase"),
-        "cycle":      mission.get("cycle"),
-        "error":      mission.get("error"),
-        "notReady":   mission.get("notReady"),
-        "mssnM":      mission.get("mssnM"),
-        "batPct":     reported.get("batPct"),
-        "sqft":       reported.get("runtimeStats", {}).get("sqft"),
-        "tankLvl":    reported.get("tankLvl"),
+        "timestamp":   datetime.now().isoformat(),
+        "phase":       mission.get("phase"),
+        "cycle":       mission.get("cycle"),
+        "error":       mission.get("error"),
+        "notReady":    mission.get("notReady"),
+        "mssnM":       mission.get("mssnM"),
+        "batPct":      reported.get("batPct"),
+        "sqft":        reported.get("runtimeStats", {}).get("sqft"),
+        "tankLvl":     reported.get("tankLvl"),
         "detectedPad": reported.get("detectedPad"),
     }
 
 def main():
-    # Create output directory if it doesn't exist
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Generate timestamped filename for this run
     run_id   = datetime.now().strftime("%Y%m%d_%H%M%S")
     filepath = os.path.join(OUTPUT_DIR, f"run_{run_id}.json")
 
     print("================================")
     print("   Braava M6 — State Collector")
     print("================================")
-    # print(f"Connecting to {ROBOT_IP}...")
-    print(f"Connecting to Robot IP Address...")
+    print(f"Connecting to {ROBOT_IP}...")
 
     roomba = RoombaFactory.create_roomba(
         address=ROBOT_IP,
@@ -80,12 +77,14 @@ def main():
         while True:
             state    = roomba.master_state
             snapshot = extract_snapshot(state)
-            snapshots.append(snapshot)
 
-            # Print live status to terminal
-            print(f"[{snapshot['timestamp']}] phase={snapshot['phase']} | "
-                  f"bat={snapshot['batPct']}% | sqft={snapshot['sqft']} | "
-                  f"error={snapshot['error']}")
+            if snapshot["phase"] is not None:
+                snapshots.append(snapshot)
+                print(f"[{snapshot['timestamp']}] phase={snapshot['phase']} | "
+                      f"bat={snapshot['batPct']}% | sqft={snapshot['sqft']} | "
+                      f"error={snapshot['error']}")
+            else:
+                print(f"[{snapshot['timestamp']}] disconnected — waiting...")
 
             time.sleep(POLL_INTERVAL)
 
@@ -93,7 +92,6 @@ def main():
         print("\nStopping collection...")
 
     finally:
-        # Always save and disconnect even if something goes wrong
         with open(filepath, "w") as f:
             json.dump(snapshots, f, indent=2)
 
