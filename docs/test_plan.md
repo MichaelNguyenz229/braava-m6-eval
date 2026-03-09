@@ -3,8 +3,8 @@
 ## Overview
 
 Behavioral evaluation of the iRobot Braava Jet M6 (6110) in a real home environment.
-Three focused test cases covering the most critical aspects of robot mop behavior —
-dock return navigation, coverage consistency, and obstacle handling.
+Five focused test cases covering navigation reliability, coverage consistency,
+obstacle handling, and safety-critical sensor validation.
 
 ---
 
@@ -12,8 +12,9 @@ dock return navigation, coverage consistency, and obstacle handling.
 
 - **Device:** iRobot Braava Jet M6 (6110)
 - **Location:** Single bedroom apartment
-- **Primary test zone:** Dead-end hallway (~25ft), hardwood/tile surface
+- **Primary test zone:** Dead-end hallway (~15ft), hardwood/tile surface
 - **Secondary test zone:** Kitchen with obstacles (chair legs, trash bin, recycle bin, boxes)
+- **Cliff test zone:** Near raised surface or step edge
 - **Dock location:** Living room at hallway entrance
 - **Map state:** No pre-existing map — robot builds from scratch
 - **Data collection:** roombapy local MQTT, state polled every 5 seconds
@@ -30,8 +31,7 @@ dock return navigation, coverage consistency, and obstacle handling.
 **Priority:** High
 
 **Why this matters:** The hallway is a dead end. The robot must navigate back out
-and locate the dock in the living room after cleaning. This is a non-trivial
-navigation challenge — getting in is easy, getting back is the real test.
+and locate the dock in the living room after cleaning. Getting back is the real test.
 
 **Preconditions:**
 - Robot fully charged
@@ -39,12 +39,12 @@ navigation challenge — getting in is easy, getting back is the real test.
 - Hallway clear of obstacles
 
 **Steps:**
-1. Start cleaning mission
+1. Start cleaning mission from iRobot app
 2. Allow mission to complete naturally
 3. Log final phase — did it reach "charge" state?
 4. Record time from mission end to successful dock
 
-**Pass criteria:** `cleanMissionStatus.phase == "charge"` within 3 minutes of mission end
+**Pass criteria:** `phase == "charge"` within 3 minutes of mission end
 **Fail criteria:** phase = "stuck" or "error", or robot cannot locate dock
 
 ---
@@ -65,12 +65,12 @@ identical runs of the same space. High variance suggests navigation inconsistenc
 
 **Steps:**
 1. Run 3 cleaning missions on same hallway
-2. Log `sqft` reported at end of each mission
+2. Log sqft reported at end of each mission
 3. Log mission duration per run
 4. Calculate variance across runs
 
 **Pass criteria:** sqft variance < 15% across runs
-**Fail criteria:** Any run deviates > 25% from mean — indicates inconsistent coverage
+**Fail criteria:** Any run deviates > 25% from mean
 
 ---
 
@@ -108,6 +108,70 @@ Notes:
 
 ---
 
+### TEST-004: Cliff Sensor Validation
+
+**Category:** Safety
+**Type:** Manual Observation
+**Priority:** High
+
+**Why this matters:** With 531 lifetime front cliff triggers and 0 rear triggers,
+this sensor is heavily used and asymmetric. Validating consistent detection behavior
+is critical — cliff sensors are a primary safety mechanism preventing falls.
+
+**Preconditions:**
+- Robot fully charged
+- Clear path approaching a raised edge or step
+- Observer ready to catch robot if sensor fails
+
+**Steps:**
+1. Note current `nCliffsF` value from snapshot_profile.py
+2. Place robot on approach path toward edge
+3. Allow robot to approach under its own navigation
+4. Observe detection distance and response behavior
+5. Record whether robot stopped, reversed, or panicked
+6. Run snapshot_profile.py after — verify `nCliffsF` incremented
+
+**Pass criteria:** Robot detects edge and reverses before crossing
+**Fail criteria:** Robot crosses edge or requires manual intervention
+
+**Hypothesis to investigate:** Does a cliff trigger increment `nCliffsF` only,
+or does it also increment `nPanics`? Determines whether these are independent
+event counters or overlapping.
+
+---
+
+### TEST-005: Bumper Collision Detection
+
+**Category:** Safety
+**Type:** Manual Observation + Automated
+**Priority:** Medium
+
+**Why this matters:** `nCBump = 0` despite 33 navigation panics and 7 stuck events
+is suspicious. Either the M6 routes collision detection through the panic handler
+instead of the bumper counter, or the bumper sensor has never been triggered.
+This test directly investigates that hypothesis.
+
+**Preconditions:**
+- Robot fully charged
+- Fixed obstacle placed in open space (box or chair)
+- Note current `nCBump` and `nPanics` values before run
+
+**Steps:**
+1. Run snapshot_profile.py — record baseline `nCBump` and `nPanics`
+2. Place fixed obstacle in robot's path
+3. Allow robot to approach and make contact
+4. Observe behavior — does it bump, panic, or avoid?
+5. Run snapshot_profile.py after — check which counters incremented
+
+**Pass criteria:** `nCBump` increments after confirmed physical contact
+**Fail criteria:** Physical contact occurs but only `nPanics` increments —
+confirms collision events are routed through panic handler, not bumper counter
+
+**Note:** Either outcome is a valid finding. The goal is to understand
+which counter accurately reflects physical collisions.
+
+---
+
 ## Results Tracking
 
 Results logged per run in `data/runs/` as timestamped JSON files.
@@ -123,4 +187,6 @@ Aggregated in `results/summary.csv`.
 | Dock failure | Cannot locate or return to dock | 001 |
 | Coverage gap | Significant area missed or inconsistent | 002 |
 | Obstacle stuck | Robot requires manual rescue | 003 |
+| Cliff detection failure | Robot crosses edge without stopping | 004 |
+| Bumper miscount | Physical collision not reflected in nCBump | 005 |
 | Navigation loop | Robot repeatedly revisits same area | 001, 002 |

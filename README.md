@@ -13,7 +13,7 @@ data, and analyzing results across repeated runs using standard QA methodology.
 ## How It Works
 
 The M6 exposes its state locally over MQTT. This project uses `roombapy` to
-connect directly over WiFi — no cloud required — and poll the robot's full state
+connect directly over WiFi and poll the robot's full state
 every 5 seconds during live missions.
 
 ## Test Cases
