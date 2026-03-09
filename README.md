@@ -16,6 +16,17 @@ The M6 exposes its state locally over MQTT. This project uses `roombapy` to
 connect directly over WiFi and poll the robot's full state
 every 5 seconds during live missions.
 
+## In Action
+
+**On dock, awaiting mission:**
+![Robot on dock](assets/doc-station.jpg)
+
+**Mapping freely during first run:**
+![Robot mapping](assets/free-map.jpg)
+
+**Wall interaction during navigation:**
+![Wall collision](assets/wall-collision.jpg)
+
 ## Test Cases
 
 See [docs/test_plan.md](docs/test_plan.md) for full documentation.
