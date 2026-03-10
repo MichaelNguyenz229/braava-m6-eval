@@ -42,8 +42,7 @@ TEST_CONFIGS = {
         "interval": 3,
         "notes": "Coverage consistency — path tracing and sqft across runs",
         "fields": [
-            "phase", "cycle", "mssnM", "batPct", "sqft", "tankLvl",
-            "pose_x", "pose_y", "pose_theta"
+            "phase", "cycle", "mssnM", "batPct", "sqft", "tankLvl"
         ]
     },
     "TEST-003": {
@@ -120,7 +119,9 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     run_id   = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filepath = os.path.join(OUTPUT_DIR, f"run_{run_id}_{args.test}.json")
+    test_dir = os.path.join(OUTPUT_DIR, args.test)
+    os.makedirs(test_dir, exist_ok=True)
+    filepath = os.path.join(test_dir, f"run_{run_id}.json")
 
     print("================================")
     print(f"   Braava M6 — {args.test}")

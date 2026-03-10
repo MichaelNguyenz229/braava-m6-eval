@@ -114,11 +114,13 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     # Get all JSON files in data/runs/
-    files = [
-        os.path.join(INPUT_DIR, f)
-        for f in sorted(os.listdir(INPUT_DIR))
-        if f.endswith(".json")
-    ]
+    files = []
+    for test_id in sorted(os.listdir(INPUT_DIR)):
+        test_path = os.path.join(INPUT_DIR, test_id)
+        if os.path.isdir(test_path):
+            for f in sorted(os.listdir(test_path)):
+                if f.endswith(".json"):
+                    files.append(os.path.join(test_path, f))
 
     if not files:
         print("No JSON files found in data/runs/")

@@ -1,3 +1,2 @@
 run_id,date,duration_min,dock_return,dock_time_sec,battery_start,battery_end,battery_drain,errors,result
-run_20260308_210006_hallway_manual_stop,2026-03-08,0.7,YES,40,82,82,0,none,INVALID
-run_20260308_212440_test_zone_complete,2026-03-08,3.5,YES,45,91,90,1,none,PASS
+run_1,2026-03-09,9.2,YES,48,91,88,3,none,PASS
