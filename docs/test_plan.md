@@ -27,12 +27,12 @@ from further testing — two clean passes confirmed consistent dock return behav
 
 All four tests run on the same table. The physical configuration changes per test:
 
-| Test | Barriers | Objects |
-|------|----------|---------|
-| TEST-002 | Up | None |
-| TEST-003 | Up | Obstacles placed on table |
-| TEST-004 | Removed | None |
-| TEST-005 | Up | Fixed barrier or manual bumper press |
+| Test | Environment | Barriers | Objects |
+|------|-------------|----------|---------|
+| TEST-002 | Hallway | N/A | None |
+| TEST-003 | Table | Up | Obstacles placed |
+| TEST-004 | Table | Removed | None |
+| TEST-005 | Table | Up | Fixed barrier or manual bumper press |
 
 Map the table as a dedicated room before running any tests so the robot
 navigates intentionally rather than exploring.
@@ -53,10 +53,11 @@ identical runs of the same bounded space. High variance suggests navigation
 inconsistency. The table provides fixed boundaries for repeatable measurement.
 
 **Preconditions:**
-- Table mapped as dedicated room
-- Barriers up, no objects on table
+- Hallway mapped as dedicated room before testing
+- Barriers not needed — hallway walls are natural boundaries
+- No objects in hallway across all runs
+- Robot starts from dock each run
 - Robot fully charged before each run
-- No changes to table layout between runs
 
 **Steps:**
 1. Run 3 cleaning missions on table

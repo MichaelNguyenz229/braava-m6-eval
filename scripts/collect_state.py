@@ -39,10 +39,11 @@ OUTPUT_DIR = "data/runs"
 # ---------------------------------------------------------------
 TEST_CONFIGS = {
     "TEST-002": {
-        "interval": 10,
-        "notes": "Coverage consistency — sqft and mission time across runs",
+        "interval": 3,
+        "notes": "Coverage consistency — path tracing and sqft across runs",
         "fields": [
-            "phase", "cycle", "mssnM", "batPct", "sqft", "tankLvl"
+            "phase", "cycle", "mssnM", "batPct", "sqft", "tankLvl",
+            "pose_x", "pose_y", "pose_theta"
         ]
     },
     "TEST-003": {
@@ -75,6 +76,7 @@ def extract_snapshot(state, fields):
     mission  = reported.get("cleanMissionStatus", {})
     bbrun    = reported.get("bbrun", {})
     runtime  = reported.get("runtimeStats", {})
+    pose = reported.get("pose", {}).get("point", {})
 
     # Map field names to their locations in the blob
     field_map = {
@@ -90,6 +92,9 @@ def extract_snapshot(state, fields):
         "nCliffsF": bbrun.get("nCliffsF"),
         "nCliffsR": bbrun.get("nCliffsR"),
         "nCBump":   bbrun.get("nCBump"),
+        "pose_x":     pose.get("x"),
+        "pose_y":     pose.get("y"),
+        "pose_theta": reported.get("pose", {}).get("theta"),
     }
 
     snapshot = {"timestamp": datetime.now().isoformat()}
