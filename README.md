@@ -33,7 +33,7 @@ See [docs/test_plan.md](docs/test_plan.md) for full documentation.
 
 | ID | Test | Priority |
 |----|------|----------|
-| TEST-001 | Dock Return Reliability | High |
+| ~~TEST-001~~ | ~~Dock Return Reliability~~ | ~~Validated — excluded~~ |
 | TEST-002 | Coverage Consistency | High |
 | TEST-003 | Obstacle Handling | Medium |
 | TEST-004 | Cliff Sensor Validation | High |
