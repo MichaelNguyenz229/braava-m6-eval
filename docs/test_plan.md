@@ -79,17 +79,26 @@ inconsistency. The table provides fixed boundaries for repeatable measurement.
 **Why this matters:** Tests robot's ability to navigate around irregular obstacles
 in a bounded space. 2 second polling catches stuck and panic events quickly.
 
+**Test environment:** Enclosed hallway section with barriers at both ends.
+
+**Obstacle setup:**
+- 1 large flat-sided box — placed perpendicular to hallway, center path
+- 1 skinny vertical obstacle — water bottle or broom handle standing upright
+- 1 irregular shape — shoe or backpack with uneven profile
+- 1 narrow gap — obstacle placed close to wall, robot must decide to squeeze through or avoid
+
+Obstacles spaced 3-4 feet apart. Mixed orientations — parallel to wall, diagonal, center.
+
 **Preconditions:**
-- Table mapped as dedicated room
-- Barriers up
-- Obstacles placed on table (boxes, cups, or similar)
+- Hallway mapped as dedicated room
+- Both ends blocked off to contain robot
 - Same obstacle layout across all runs
 - Robot fully charged
-- Note baseline `nStuck` and `nPanics` from snapshot_profile.py
+- Note baseline `nStuck` and `nPanics` from snapshot_profile.py before run
 
 **Steps:**
 1. Run snapshot_profile.py — record baseline nStuck and nPanics
-2. Place obstacles on table in fixed positions
+2. Place obstacles in fixed positions
 3. Start cleaning mission
 4. Observe behavior at each obstacle
 5. Run snapshot_profile.py after — check if nStuck or nPanics incremented
