@@ -21,14 +21,14 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "summary.csv")
 def parse_timestamp(ts):
     return datetime.fromisoformat(ts)
 
-def analyze_run(filepath):
+def analyze_run(filepath, test_id="UNKNOWN"):
     with open(filepath, "r") as f:
         snapshots = json.load(f)
 
     if not snapshots:
         return None
 
-    filename = os.path.basename(filepath).replace(".json", "")
+    filename = f"{test_id} | {os.path.basename(filepath).replace('.json', '')}"
 
     # --- Basic info ---
     date = snapshots[0]["timestamp"][:10]
@@ -88,7 +88,7 @@ def analyze_run(filepath):
     docked = charge_time is not None
     has_errors = len(errors) > 0
 
-    if "manual_stop" in filename:
+    if "invalid" in filename:
         result = "INVALID"
     elif docked and not has_errors:
         result = "PASS"
@@ -111,27 +111,34 @@ def analyze_run(filepath):
     }
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Analyze Braava M6 test run logs")
+    parser.add_argument("--test", help="Filter by test ID (e.g. TEST-002). Omit to analyze all.")
+    args = parser.parse_args()
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     # Get all JSON files in data/runs/
     files = []
     for test_id in sorted(os.listdir(INPUT_DIR)):
+        if args.test and test_id != args.test:
+            continue
         test_path = os.path.join(INPUT_DIR, test_id)
         if os.path.isdir(test_path):
             for f in sorted(os.listdir(test_path)):
                 if f.endswith(".json"):
-                    files.append(os.path.join(test_path, f))
+                    files.append((test_id, os.path.join(test_path, f)))
 
     if not files:
         print("No JSON files found in data/runs/")
         return
 
     results = []
-    for filepath in files:
-        print(f"Analyzing: {os.path.basename(filepath)}")
-        result = analyze_run(filepath)
-        if result:
-            results.append(result)
+    for test_id, filepath in files:
+            print(f"Analyzing: {os.path.basename(filepath)}")
+            result = analyze_run(filepath, test_id)
+            if result:
+                results.append(result)
 
     # Write CSV
     fieldnames = [

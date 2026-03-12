@@ -1,7 +1,4 @@
 run_id,date,duration_min,dock_return,dock_time_sec,battery_start,battery_end,battery_drain,errors,result
-run_1,2026-03-09,9.2,YES,48,91,88,3,none,PASS
-run_2,2026-03-09,5.1,YES,51,93,90,3,none,PASS
-run_3,2026-03-11,11.7,YES,51,95,89,6,none,PASS
-run_1,2026-03-10,15.7,YES,48,100,90,10,none,PASS
-run_2,2026-03-11,15.4,YES,52,92,85,7,none,PASS
-run_3,2026-03-11,11.0,YES,64,86,81,5,none,PASS
+TEST-002 | invalid_run_2,2026-03-09,5.1,YES,51,93,90,3,none,INVALID
+TEST-002 | run_1,2026-03-09,9.2,YES,48,91,88,3,none,PASS
+TEST-002 | run_3,2026-03-11,11.7,YES,51,95,89,6,none,PASS
