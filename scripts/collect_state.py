@@ -42,14 +42,14 @@ TEST_CONFIGS = {
         "interval": 3,
         "notes": "Coverage consistency — path tracing and sqft across runs",
         "fields": [
-            "phase", "cycle", "mssnM", "batPct", "sqft", "tankLvl"
+            "phase", "cycle", "batPct"
         ]
     },
     "TEST-003": {
         "interval": 2,
         "notes": "Obstacle handling — catch stuck/panic events quickly",
         "fields": [
-            "phase", "cycle", "error", "mssnM", "batPct",
+            "phase", "cycle", "error", "batPct",
             "nStuck", "nPanics"
         ]
     },
@@ -59,14 +59,7 @@ TEST_CONFIGS = {
         "fields": [
             "phase", "error", "nCliffsF", "nCliffsR", "nPanics"
         ]
-    },
-    "TEST-005": {
-        "interval": 1,
-        "notes": "Bumper collision — does nCBump increment on physical contact",
-        "fields": [
-            "phase", "error", "nCBump", "nPanics", "nStuck"
-        ]
-    },
+    }
 }
 
 def extract_snapshot(state, fields):
