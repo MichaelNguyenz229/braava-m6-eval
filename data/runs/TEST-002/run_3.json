@@ -1,0 +1,2342 @@
+[
+  {
+    "timestamp": "2026-03-11T20:30:56.721815",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:30:59.721986",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:02.733668",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:05.748932",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:08.763875",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:11.764130",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:14.778489",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:17.779126",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:20.794373",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:23.794832",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:26.808488",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:29.808794",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:32.823466",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:35.823943",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:38.824207",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:41.824503",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:44.838954",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:47.853916",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:50.868920",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:53.869510",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:56.883725",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:31:59.884073",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:02.898860",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:05.899706",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:08.900185",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:11.903973",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:14.913723",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:17.918617",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:20.919102",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:23.919719",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:26.920221",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:29.928825",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:32.943913",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:35.944379",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 95,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:38.958571",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:41.974022",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:44.988710",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:48.003388",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:51.003812",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:54.009785",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:32:57.010081",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:00.025064",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:03.025422",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:06.026159",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:09.030825",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:12.031464",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:15.031969",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:18.032539",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:21.039739",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:24.040289",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:27.040569",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:30.055001",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:33.055334",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:36.059695",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:39.070259",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:42.070908",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:45.071574",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:48.072287",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:51.084663",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:54.085332",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:33:57.085755",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:00.100109",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:03.100655",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:06.101334",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:09.114893",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:12.115638",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:15.115924",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:18.123033",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:21.123828",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:24.124268",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:27.127807",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:30.144539",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:33.159952",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:36.170174",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 94,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:39.170581",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:42.190402",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:45.190567",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:48.205634",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:51.206237",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:54.207142",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:34:57.207522",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:00.207828",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:03.218822",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:06.236996",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:09.237219",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:12.252728",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:15.267285",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:18.281923",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:21.297159",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:24.297913",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:27.298402",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:30.312228",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:33.312870",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:36.313272",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:39.327379",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:42.329701",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:45.342336",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:48.356872",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:51.372342",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:54.386936",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:35:57.387968",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:00.402144",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:03.402436",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:06.405548",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:09.406138",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:12.410023",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:15.414682",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:18.414957",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:21.415264",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:24.416060",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:27.416847",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:30.417289",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:33.417774",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:36.422180",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:39.423076",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:42.431776",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:45.446944",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:48.447504",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:51.448171",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:54.462014",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 93,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:36:57.477602",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:00.492060",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:03.492639",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:06.500557",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:09.501283",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:12.501569",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:15.521785",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:18.522173",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:21.538863",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:24.553971",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:27.554413",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:30.569341",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:33.569772",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:36.569970",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:39.570488",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:42.570717",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:45.587717",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:48.600545",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:51.601126",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:54.601717",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:37:57.617383",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:00.617992",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:03.632407",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:06.647433",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:09.647886",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:12.648405",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:15.662139",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:18.662480",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:21.677495",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:24.679315",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:27.681502",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:30.682098",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:33.692299",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:36.707826",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:39.715130",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:42.715438",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:45.724465",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:48.737145",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:51.752355",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:54.767474",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:38:57.767758",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 92,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:00.782584",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:03.797409",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:06.807947",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:09.827222",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:12.842403",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:15.851350",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:18.852083",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:21.856942",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:24.857993",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:27.872426",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:30.887272",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:33.887914",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:36.888282",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:39.888666",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:42.902451",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:45.917099",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:48.917478",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:51.932321",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:54.947618",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:39:57.962207",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:00.977415",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:03.977730",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:06.980181",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:09.987144",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:12.987340",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:15.987769",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:19.007549",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:22.008004",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:25.022193",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:28.037389",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:31.052515",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:34.067494",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:37.082182",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:40.097359",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:43.099823",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:46.118232",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:49.118483",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:52.132677",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:55.133348",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:40:58.148223",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:01.162891",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:04.163190",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:07.163542",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:10.163763",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 91,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:13.167967",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:16.177671",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:19.180197",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:22.180419",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:25.181080",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:28.181765",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:31.182016",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:34.193127",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:37.208011",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:40.208638",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:43.209078",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:46.209817",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:49.229010",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:52.238698",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:55.239118",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:41:58.253288",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:01.268017",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:04.268238",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:07.268793",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:10.283108",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:13.297863",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:16.298329",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:19.313583",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:22.324665",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:25.332962",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:28.343216",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:31.357881",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:34.358540",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:37.359563",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:40.360045",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:43.372681",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:46.373223",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:49.388365",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:52.408491",
+    "phase": "run",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:55.409312",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:42:58.423741",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:01.443344",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:04.458183",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:07.458532",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:10.461532",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:13.488130",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:16.490856",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:19.491264",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:22.505805",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:25.506425",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 90,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:28.516538",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:31.516978",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:34.517420",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:37.521098",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:40.535957",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:43.536493",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:46.537111",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:49.537568",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:52.538343",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  },
+  {
+    "timestamp": "2026-03-11T20:43:55.539079",
+    "phase": "charge",
+    "cycle": "none",
+    "mssnM": 0,
+    "batPct": 89,
+    "sqft": 3,
+    "tankLvl": 100
+  }
+]

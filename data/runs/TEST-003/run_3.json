@@ -1,0 +1,3722 @@
+[
+  {
+    "timestamp": "2026-03-11T21:04:39.625928",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:41.626269",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:43.642181",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:45.651777",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:47.661340",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:49.671320",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:51.681305",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:53.685703",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:55.686218",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:57.686564",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:04:59.687116",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:01.702522",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:03.712657",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:05.721583",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:07.722452",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:09.722980",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:11.723382",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:13.723795",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:15.724193",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:17.735371",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:19.736057",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:21.737231",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:23.739045",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:25.739447",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:27.750752",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:29.751300",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:31.761792",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:33.766607",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:35.767354",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:37.767943",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:39.771655",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:41.772165",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:43.772841",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:45.773546",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:47.782084",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:49.787945",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:51.788240",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:53.788965",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:55.789218",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:57.789572",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:05:59.796021",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:01.796344",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:03.801886",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:05.802775",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:07.805910",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:09.806451",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:11.808067",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 86,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:13.809543",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:15.812404",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:17.813261",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:19.814415",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:21.814919",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:23.818630",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:25.820111",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:27.820533",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:29.821247",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:31.821959",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:33.825534",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:35.828354",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:37.829723",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:39.830561",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:41.831130",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:43.831863",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:45.832617",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:47.834048",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:49.834289",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:51.839507",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:53.839879",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:55.842937",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:57.844399",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:06:59.847389",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:01.848151",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:03.849112",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:05.849595",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:07.850051",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:09.850315",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:11.850763",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:13.851056",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:15.855512",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:17.869739",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:19.870224",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:21.870839",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:23.871149",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:25.879192",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:27.879936",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:29.883721",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:31.885234",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:33.885955",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:35.886233",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:37.887057",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:39.887690",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:41.888076",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:43.894260",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:45.896226",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:47.896754",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:49.896930",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:51.897668",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:53.898116",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:55.898841",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:57.899364",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:07:59.899997",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:01.900270",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:03.910977",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:05.911600",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:07.912061",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:09.917912",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:11.918527",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:13.919184",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:15.919933",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:17.920671",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 85,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:19.921280",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:21.921983",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:23.922672",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:25.923302",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:27.923862",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:29.924498",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:31.925368",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:33.925791",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:35.926667",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:37.927106",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:39.927988",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:41.928268",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:43.928700",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:45.929009",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:47.929807",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:49.930162",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:51.930460",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:53.930722",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:55.931179",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:57.931843",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:08:59.932480",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:01.933663",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:03.934148",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:05.934650",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:07.935136",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:09.935719",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:11.943559",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:13.949069",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:15.950800",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:17.951363",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:19.951798",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:21.952175",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:23.953039",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:25.953662",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:27.954456",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:29.954858",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:31.955210",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:33.955887",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:35.956150",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:37.956631",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:39.957258",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:41.957756",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:43.958346",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:45.958680",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:47.960634",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:49.961462",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:51.961722",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:53.968126",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:55.970045",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:57.970527",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:09:59.972802",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:01.974337",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:03.975953",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:05.976884",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:07.978378",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:09.980770",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:11.981634",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:13.981998",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:15.982600",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:17.983298",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:19.987287",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:21.990158",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:23.991701",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:25.992159",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:27.994889",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:29.995673",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:31.997308",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:33.998007",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 84,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:35.998512",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:37.999084",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:39.999432",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:42.004724",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:44.007729",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:46.008262",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:48.009666",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:50.012467",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:52.013928",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:54.014779",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:56.015873",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:10:58.016595",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:00.017627",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:02.018747",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:04.019487",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:06.020117",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:08.020632",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:10.021211",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:12.028451",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:14.029632",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:16.030421",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:18.031696",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:20.032485",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:22.033998",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:24.035203",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:26.036753",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:28.038614",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:30.040012",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:32.041578",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:34.041985",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:36.045017",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:38.045534",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:40.045864",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:42.046298",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:44.046758",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:46.052705",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:48.053425",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:50.053925",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:52.054585",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:54.055346",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:56.056086",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:11:58.056941",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:00.063511",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:02.064335",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:04.069586",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:06.070198",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:08.070535",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:10.070765",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:12.071388",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:14.071717",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:16.072259",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:18.081974",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:20.083496",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:22.084081",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:24.084524",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:26.096805",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:28.097347",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:30.100236",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:32.116323",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:34.116747",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:36.117102",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:38.135365",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:40.135707",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:42.156024",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:44.156506",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:46.166434",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:48.166867",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 83,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:50.167237",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:52.183734",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:54.184123",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:56.192566",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:12:58.201803",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:00.210719",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:02.221479",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:04.227769",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:06.235620",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:08.236081",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:10.236735",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:12.237085",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:14.258234",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:16.267973",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:18.268533",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:20.268925",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:22.283455",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:24.293131",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:26.297637",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:28.298105",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:30.298559",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:32.307037",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:34.317465",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:36.322328",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:38.322701",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:40.323024",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:42.323343",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:44.340311",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:46.350096",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:48.359276",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:50.360121",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:52.360555",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:54.361384",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:56.370901",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:13:58.371632",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:00.372499",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:02.386730",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:04.387181",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:06.388012",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:08.388555",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:10.388836",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:12.389528",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:14.404915",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:16.414860",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:18.424854",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:20.425701",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:22.433708",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:24.443931",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:26.455602",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:28.467804",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:30.468195",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:32.469447",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:34.481337",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:36.491267",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:38.492366",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:40.492815",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:42.493553",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:44.501850",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:46.502272",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:48.502756",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:50.503412",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:52.504477",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:54.509696",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:56.517673",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:14:58.527832",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:00.534766",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:02.540854",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:04.550881",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:06.562667",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 82,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:08.572350",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:10.573094",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:12.573344",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:14.573868",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:16.574838",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:18.584553",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:20.585373",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:22.593208",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:24.599442",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:26.611355",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:28.622431",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:30.623217",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:32.627403",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:34.638953",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:36.639617",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:38.640812",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:40.641599",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:42.641950",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:44.642532",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:46.643346",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:48.657865",
+    "phase": "run",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:50.667287",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:52.677459",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:54.689788",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:56.690489",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:15:58.690850",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:00.691303",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:02.691687",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:04.692526",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:06.703897",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:08.704359",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:10.704940",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:12.705363",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:14.713792",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:16.724286",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:18.725159",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:20.725782",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:22.727668",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:24.749953",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:26.759867",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:28.770113",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:30.780083",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:32.790368",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:34.799134",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:36.809270",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:38.809726",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:40.810191",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:42.811319",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:44.811627",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:46.812069",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:48.812768",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:50.813185",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:52.825186",
+    "phase": "hmPostMsn",
+    "cycle": "clean",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:54.826033",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:56.826948",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:16:58.842326",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:17:00.842795",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  },
+  {
+    "timestamp": "2026-03-11T21:17:02.843204",
+    "phase": "charge",
+    "cycle": "none",
+    "error": 0,
+    "mssnM": 0,
+    "batPct": 81,
+    "nStuck": 7,
+    "nPanics": 47
+  }
+]
